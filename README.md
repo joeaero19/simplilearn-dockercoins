@@ -1,7 +1,7 @@
 # simplilearn-dockercoins
 
 ```
-GITHUB_USERNAME=academiaonline
+GITHUB_USERNAME=joeaero19
 GITHUB_PROJECT=simplilearn-dockercoins
 GITHUB_BRANCH=2021-08
 GITHUB_RELEASE=test
